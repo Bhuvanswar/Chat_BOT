@@ -8,8 +8,11 @@ def index():
     global chat_history
     message = None
     response = None
+<<<<<<< HEAD
     if request.method == "GET":
         chat_history = [] 
+=======
+>>>>>>> 396b8ac0dec5b263f6a0c32267ca80300778047c
 
     if request.method == "POST":
         message = request.form["message"]

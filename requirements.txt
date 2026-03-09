@@ -1,0 +1,10 @@
+langchain-huggingface
+huggingface-hub
+transformers
+accelerate
+bitsandbytes
+langchain
+dotenv
+flask
+gunicorn
+langchain-groq
